@@ -6,20 +6,20 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 
 ## Reading Files
 
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
-    1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
 
 ### Thanks for stopping by!
