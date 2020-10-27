@@ -7,7 +7,7 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 ## Reading Files
 
 1. [Read 01 - Introductory HTML and JavaScript](class-01.md)
-2.
+2. [Read 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 3.
 4.
 5.
