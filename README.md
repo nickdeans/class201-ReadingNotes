@@ -12,7 +12,7 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 4. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
 5. [HTML Images; CSS Color & Text](class-5.md)
 6. [The DOM](class-06.md)
-7.
+7. [Object-oriented programming, HTML tables](class-07.md)
 8.
 9.
 10.
