@@ -14,7 +14,7 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 6. [Read 06 - The DOM](class-06.md)
 7. [Read 07 - Object-oriented programming, HTML tables](class-07.md)
 8. [Read 08 - CSS Lyout ](class-08.md)
-9.
+9. [Read 09 - Forms and JS Events](read-09.md)
 10.
 11.
 12.
