@@ -6,6 +6,7 @@ Cahrts are far better for displaying data visually than tables and have the adde
 
 ## Setting up
 - The first thing we need to do is download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you will be working in. Then create a new html page and import the script.
+
 ```
 <html>
     <head>
@@ -16,17 +17,22 @@ Cahrts are far better for displaying data visually than tables and have the adde
 
 ### Drawing a line Chart
 - To draw a line chart, the first thing we need to do is create a canvas element in our HTML in whihc Chart.js can draw our chart.
+
 ```
 <canvas id="buyer" width="600" height="400"></canvas>
 ```
+
 - Next, we need to write a script that will recieve the context of the canvas, so add this to the foot of your body element:
 ```
+
 <script>
     var buyer = document.getElementById('buyer').getContext('2d
     new Chart(buyer).Line(buyerData)
 </script>
 ```
+
 Inside the same script tags we need to create our data, in this instance it's an object that contains labels for the base of our chart and datasets to descrie the values on the chart. Add this immediately above the line that begins 'var buyer=':
+
 ```
 var buyerData = {
 	labels : ["January","February","March","April","May","June"],
@@ -51,6 +57,7 @@ Canvas has a grid or coordinate space which you can adjust accordingly.
 **Drawing Rectangles** - canvas only supports two primitive shapes: rectanlges and paths(lists of points connected by lines)
 
 There are three functions that draw rectangles on the canvas.
+
 ```
 fillRect(x, y, width, height)
     - Draws a filled rectangle
@@ -63,6 +70,7 @@ clearRect(x, y, width, height)
 ```
 
 **Drawing Paths** - A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of different width and of different color. 
+
 ```
 beginPath()
     - Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.
