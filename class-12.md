@@ -23,8 +23,8 @@ Cahrts are far better for displaying data visually than tables and have the adde
 ```
 
 - Next, we need to write a script that will recieve the context of the canvas, so add this to the foot of your body element:
-```
 
+```
 <script>
     var buyer = document.getElementById('buyer').getContext('2d
     new Chart(buyer).Line(buyerData)
