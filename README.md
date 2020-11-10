@@ -17,7 +17,7 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 9. [Read 09 - Forms and JS Events](read-09.md)
 10. [Read 10 - Debugging](class-10.md)
 11. [Read 11 - Images and Search Engine Optimization](class-11.md)
-12.
+12. [Read 12 - Chart.js and Canvas](class-12.md)
 13.
 14.
 15.
