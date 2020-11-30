@@ -39,4 +39,6 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 
 ## Code 301 - Intermediate Software Development
 
+1. [Read 01 - SMACSS and Responsive Web Design](class01-reading.md)
+
 ### Thanks for stopping by!
