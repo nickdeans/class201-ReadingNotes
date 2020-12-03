@@ -2,6 +2,8 @@
 
 Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find all my reading notes from my Code Fellow courses!
 
+I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett.
+
 # Table of Contents
 - Code 102 Reading Notes
 - Code 201 Reading Notes
@@ -42,5 +44,6 @@ Hi, I am **Nick Abramowicz** and welcome to my Github page. Below you will find 
 1. [Read 01 - SMACSS and Responsive Web Design](class01-reading.md)
 2. [Read 02 - jQuery, Events, and the DOM](class02-reading.md)
 3. [Read 03 - Flexbox and Templating](class03-reading.md)
+4. [Read 04 - Responsive Web Design and Regular Expressions](class04-reading.md)
 
 ### Thanks for stopping by!
