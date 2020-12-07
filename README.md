@@ -46,5 +46,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 3. [Read 03 - Flexbox and Templating](class03-reading.md)
 4. [Read 04 - Responsive Web Design and Regular Expressions](class04-reading.md)
 5. [Read 05 - Heroku Deployment](class05-reading.md)
+6. [Read 06 - Node, Express, and APIs](class06-reading.md)
 
 ### Thanks for stopping by!
