@@ -48,5 +48,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 5. [Read 05 - Heroku Deployment](class05-reading.md)
 6. [Read 06 - Node, Express, and APIs](class06-reading.md)
 7. [Read 07 - REST](class07-reading.md)
+8. [Read 08 - SQL](class08-reading.md)
 
 ### Thanks for stopping by!
