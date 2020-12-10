@@ -49,5 +49,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 6. [Read 06 - Node, Express, and APIs](class06-reading.md)
 7. [Read 07 - REST](class07-reading.md)
 8. [Read 08 - SQL](class08-reading.md)
+9. [Read 09 - Refactoring](class09-reading.md)
 
 ### Thanks for stopping by!
