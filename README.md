@@ -52,5 +52,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 9. [Read 09 - Refactoring](class09-reading.md)
 10. [Read 10 - The Call Stack and Debugging](class10-reading.md)
 11. [Read 11 - EJS](class11-reading.md)
+12. [Read 12 - EJS Partials](class12-reading.md)
 
 ### Thanks for stopping by!
