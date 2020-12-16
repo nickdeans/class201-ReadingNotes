@@ -53,5 +53,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 10. [Read 10 - The Call Stack and Debugging](class10-reading.md)
 11. [Read 11 - EJS](class11-reading.md)
 12. [Read 12 - EJS Partials](class12-reading.md)
+13. [Read 13 - Sending Form Data](class13-reading.md)
 
 ### Thanks for stopping by!
