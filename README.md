@@ -55,5 +55,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 12. [Read 12 - EJS Partials](class12-reading.md)
 13. [Read 13 - Sending Form Data](class13-reading.md)
 14. [Read 14 - Database Normalization](class14-reading.md)
+15. [Read 15 - Diversity and Inclusion](class15-reading.md)
 
 ### Thanks for stopping by!
