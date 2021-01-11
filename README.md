@@ -57,4 +57,7 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 14. [Read 14 - Database Normalization](class14-reading.md)
 15. [Read 15 - Diversity and Inclusion](class15-reading.md)
 
+## Code 401 - Advanced Software Development
+1. [Read 01 - Exception Handling and Debugging](401-read01.md)
+
 ### Thanks for stopping by!
