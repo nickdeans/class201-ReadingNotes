@@ -8,6 +8,7 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 - Code 102 Reading Notes
 - Code 201 Reading Notes
 - Code 301 Reading Notes
+- Code 401 Reading Notes
 
 ## Code 102 - Intro to Software Development 
 
