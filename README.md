@@ -59,6 +59,10 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 15. [Read 15 - Diversity and Inclusion](class15-reading.md)
 
 ## Code 401 - Advanced Software Development
+1. [Read 01 - Node Ecosystem, TDD, CI/CD](401-read-01.md)
 1. [Read 01 - Exception Handling and Debugging](401-read01.md)
+2.
+3. [Read 03 - Express Rest API](401-read03.md)
+4. [Read 04 - Data Modeling](401-read04.md)
 
 ### Thanks for stopping by!
