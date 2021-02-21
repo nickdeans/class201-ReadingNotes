@@ -61,7 +61,7 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 ## Code 401 - Advanced Software Development
 1. [Read 01 - Node Ecosystem, TDD, CI/CD](401-read-01.md)
 1. [Read 01 - Exception Handling and Debugging](401-read01.md)
-2.
+2. [Read 02 - Express](401-read-02.md)
 3. [Read 03 - Express Rest API](401-read03.md)
 4. [Read 04 - Data Modeling](401-read04.md)
 
