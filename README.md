@@ -63,5 +63,8 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 2. [Read 02 - Express](401-read-02.md)
 3. [Read 03 - Express Rest API](401-read03.md)
 4. [Read 04 - Data Modeling](401-read04.md)
+5. [Read 06 - Authentication](401-read-06.md)
+6. [Read 07 - Bearer Authorization](401-read-07.md)
+7. [Read 08 - Access Control(ACL)](401-read-08.md)
 
 ### Thanks for stopping by!
