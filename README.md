@@ -67,5 +67,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 6. [Read 07 - Bearer Authorization](401-read-07.md)
 7. [Read 08 - Access Control(ACL)](401-read08.md)
 8. [Read 11 - Event Driven Applications](401-read11.md)
+9. [Read 12 - Socket.io](401-read12.md)
 
 ### Thanks for stopping by!
