@@ -70,5 +70,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 9. [Read 12 - Socket.io](401-read12.md)
 10. [Read 13 - Message Queues](401-read13.md)
 11. [Read 14 - Event Driven Architecture](401-read14.md)
+12. [Read 15 - Trees](401-read15.md)
 
 ### Thanks for stopping by!
