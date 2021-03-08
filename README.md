@@ -71,5 +71,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 10. [Read 13 - Message Queues](401-read13.md)
 11. [Read 14 - Event Driven Architecture](401-read14.md)
 12. [Read 15 - Trees](401-read15.md)
+13. [Read 16 - AWS: Cloud Servers](401-read16.md)
 
 ### Thanks for stopping by!
