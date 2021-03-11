@@ -74,5 +74,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 13. [Read 16 - AWS: Cloud Servers](401-read16.md)
 14. [Read 17 - AWS: S3 and Lambda](401-read17.md)
 15. [Read 18 - AWS: API, Dynamo, and Lambda](401-read18.md)
+16. [Read 19 - AWS: Events](401-read19.md)
 
 ### Thanks for stopping by!
