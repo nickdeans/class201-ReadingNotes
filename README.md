@@ -76,5 +76,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 15. [Read 18 - AWS: API, Dynamo, and Lambda](401-read18.md)
 16. [Read 19 - AWS: Events](401-read19.md)
 17. [Read 21 - Props and State](401-read21.md)
+18. [Read 22 - Compnonent Composition](401-read22.md)
 
 ### Thanks for stopping by!
