@@ -78,5 +78,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 17. [Read 21 - Props and State](401-read21.md)
 18. [Read 22 - Component Composition](401-read22.md)
 19. [Read 23 - Routing](401-read23.md)
+20. [Read 25 - Custom Hooks](401-read25.md)
 
 ### Thanks for stopping by!
