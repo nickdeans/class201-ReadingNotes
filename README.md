@@ -81,5 +81,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 20. [Read 25 - Custom Hooks](401-read25.md)
 21. [Read 26 - Context API](401-read26.md)
 22. [Read 27 - Login and Auth](401-read27.md)
+23. [Read 28 - Application State with Redux](401-read28.md)
 
 ### Thanks for stopping by!
