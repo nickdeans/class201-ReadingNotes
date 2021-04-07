@@ -83,5 +83,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 22. [Read 27 - Login and Auth](401-read27.md)
 23. [Read 28 - Application State with Redux](401-read28.md)
 24. [Read 29 - Redux - Combined Reducers](401-read29.md)
+25. [Read 30 - Redux - Asynchronous Actions](401-read30.md)
 
 ### Thanks for stopping by!
