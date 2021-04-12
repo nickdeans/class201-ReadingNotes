@@ -85,5 +85,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 24. [Read 29 - Redux - Combined Reducers](401-read29.md)
 25. [Read 30 - Redux - Asynchronous Actions](401-read30.md)
 26. [Read 31 - Redux - Additional Topics](401-read31.md)
+27. [Read 32 - React Native](401-read32.md)
 
 ### Thanks for stopping by!
