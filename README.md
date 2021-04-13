@@ -86,5 +86,6 @@ I attribute all my reading notes from: JavaScript and JQuery: Interactive Front-
 25. [Read 30 - Redux - Asynchronous Actions](401-read30.md)
 26. [Read 31 - Redux - Additional Topics](401-read31.md)
 27. [Read 32 - React Native](401-read32.md)
+28. [Read 33 - Ethics](401-read33.md)
 
 ### Thanks for stopping by!
